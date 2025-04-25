@@ -1,6 +1,6 @@
 /*
 CSE 30341 Spring 2025 Flash Translation Assignment.
-Simple log-structured FTL for realistic wear leveling and metrics.
+Kathryn Cruz && Manuela Roca Zapata
 */
 
 #include "disk.h"
